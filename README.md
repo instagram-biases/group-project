@@ -98,8 +98,8 @@ _Challenges_
 
 
 
-BIBLIOGRAPHY
-Brown, T. W. et al., Exposure to opposing views on social media can increase political polarization, National Academy of Sciences of the USA (2018)
+**BIBLIOGRAPHY**
+_Brown, T. W. et al., Exposure to opposing views on social media can increase political polarization, National Academy of Sciences of the USA (2018)
 
 Muhammad Ali et al., Ad Delivery Algorithms: The Hidden Arbiters of Political Messaging, Cornell University Press (2019)
 
@@ -118,3 +118,4 @@ Ava Kofman, Ariana Tobin, Facebook Ads Can Still Discriminate Against Women, Des
 Vox News, Facebook showed this ad to 95% women. Is that a problem?, link, (2020) 
 
 Judith Duportail, Nicolas Kayser-Bril, Edouard Richard, Kira Schacht, The skin bias in Instagram, AlgorithmWatch (2020)
+_
