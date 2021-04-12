@@ -14,6 +14,11 @@ The goal of our study is to take a user-focused approach to analyse and understa
 _Note of the authors: this study deliberately relies on the “classical” vision of gender, as a bi-categorical variable. Our rationale is twofold: first, Instagram only allows for two such gender categories when signing up for an account (in addition to the gender-neutral category, which we also used). Second, given the rather limited scale of our research project, it is both easier and more accurate to focus on the male/female divide.
 _
 
+
+***********************
+
+
+
 **LITERATURE REVIEW**
 As academia starts to catch up with big tech companies’ covert efforts to amass the biggest amount of data possible on its users, the literature on biases in ad algorithms is growing strong. One of the main (and most mediatized) issues regarding social media advertising is obviously the issue of political ads. Digital advertising on social media platforms is hugely popular due to how they empower the client’s ad to target messages directed at users with a never-seen-before accuracy, including inferences about the user’s political affiliations (Ali, 2019) (Heilweil, 2020). Prior work has shown that platforms’ ad algorithms can selectively choose to deliver ads within the intended target audiences in ways that more often than not lead to demographic skews. These skews always go along gender lines, often without the advertiser’s nor the public’s knowledge (Brown et al., 2018).
 
@@ -22,6 +27,12 @@ When it comes to the content of the ads themselves, examples like the aforementi
 Women continue to be sexualized, stereotyped, and under-represented in online ads when compared to men (Jen Gennai, 2020). There is clear evidence that these portrayals have consequential real-world effects on the way women behave and are treated. This is why we felt the need to perform this study, as it not only concerns Instagram users, but society as a whole. 
 
 “One of our top priorities is protecting people from discrimination” said Sheryl Sandberg, Facebook’s Chief Operating Officer, in 2019. This statement came after Facebook had just launched a new, supposedly unbiased algorithm to display ads on its multiple platforms. As academia has proven (Ava Kofman, Ariana Tobin, 2019), as well as we are about to find out in our study, these efforts seem not to be working as well as the executives at Facebook claim. 
+
+
+
+
+***********************
+
 
 
 **METHODOLOGY**
@@ -45,6 +56,7 @@ Following this thorough (some might say almost paranoid) process, we had thus cr
 
 Creating the Instagram accounts for our experiment was not an issue (albeit a little time-consuming): we simply used the email addresses that we had created and signed up to create the accounts. We used gender-neutral aliases that would control for any sort of analysis by Instagram’s algorithms. The name given to our Instagram profile is also gender-neutral, allowing us to control for this variable. 
 
+***********************
 
 **PROTOCOL**
 After yet another long brainstorming session, we came up with a strong, reliable protocol to test our hypothesis. Our process is split between two distinct waves of experimentation, as well as two distinct categories for classifying the ads that our profiles are sent.
@@ -87,18 +99,15 @@ The idea is to verify whether Instagram relies on the profile pictures of the us
 The ad categories
 
 
+***********************
+
 **RESULTS** 
 Caractériser contenu masculin et contenu féminin
 
 _Challenges_
 	It must be noted that our experiment is only as valid as our ad categories. Indeed, although we tried to establish our two categories (“typically male”/”typically female”) as scientifically as possible, our own judgement and personal biases have played a role in defining which ad would be classified as one or the other category. By using a unanimous vote amongst the three of us to classify all the ads, we tried to neutralize our own biases, but we are aware that we might have committed mistakes. 
 
-
-
-
 ***********************
-
-
 
 **BIBLIOGRAPHY**
 _Brown, T. W. et al., Exposure to opposing views on social media can increase political polarization, National Academy of Sciences of the USA (2018)
