@@ -1,4 +1,4 @@
-**DECODING BIASES IN ARTIFICIAL INTELLIGENCE - FINAL PAPER **
+**DECODING BIASES IN ARTIFICIAL INTELLIGENCE - FINAL PAPER**
 
 **INTRODUCTION**
 In 2019, the BBC ran a story about a 12-year-old girl who, having barely joined Instagram, was instantly bombarded with ads for beauty and health products. It turns out that she was actually much more interested in athletic and academic pursuits, and had joined the platform to follow the accounts of her sports idols. As a society, we are increasingly becoming aware of the dangers of sexist stereotypes. We are also aware of the immense harm that these kinds of imagery have on self-confidence and body image. 
