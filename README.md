@@ -110,11 +110,11 @@ _Challenges_
 ***********************
 
 # **BIBLIOGRAPHY**
-_Brown, T. W. et al., Exposure to opposing views on social media can increase political polarization, National Academy of Sciences of the USA (2018)
+_Brown, T. W. et al., Exposure to opposing views on social media can increase political polarization, National Academy of Sciences of the USA (2018)_
 
-_Muhammad Ali et al., Ad Delivery Algorithms: The Hidden Arbiters of Political Messaging, Cornell University Press (2019)
+_Muhammad Ali et al., Ad Delivery Algorithms: The Hidden Arbiters of Political Messaging, Cornell University Press (2019)_
 
-_Muhammad Ali, Discrimination through optimization: How Facebook’s ad delivery can lead to skewed outcomes, Cornell University Press (2019)
+_Muhammad Ali, Discrimination through optimization: How Facebook’s ad delivery can lead to skewed outcomes, Cornell University Press (2019)_
 
 _Jen Gennai, Meghana Bhatt, Take back the Ad: Understanding the impact of female-sexualized ads on male and female viewers (2020)_
 
@@ -126,6 +126,6 @@ _Lambrecht, Anja, Catherine Tucker, An Empirical Study into Apparent Gender-Base
 
 _Ava Kofman, Ariana Tobin, Facebook Ads Can Still Discriminate Against Women, Despite a Civil Rights Settlement, ProPublica (2019)_
 
-_Vox News, Facebook showed this ad to 95% women. Is that a problem?, link, (2020) _
+_Vox News, Facebook showed this ad to 95% women. Is that a problem?, link, (2020)_
 
 _Judith Duportail, Nicolas Kayser-Bril, Edouard Richard, Kira Schacht, The skin bias in Instagram, AlgorithmWatch (2020)__
