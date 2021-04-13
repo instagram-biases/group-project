@@ -110,22 +110,22 @@ _Challenges_
 ***********************
 
 # **BIBLIOGRAPHY**
-_Brown, T. W. et al., Exposure to opposing views on social media can increase political polarization, National Academy of Sciences of the USA (2018)
+_ Brown, T. W. et al., Exposure to opposing views on social media can increase political polarization, National Academy of Sciences of the USA (2018)
 
-_Muhammad Ali et al., Ad Delivery Algorithms: The Hidden Arbiters of Political Messaging, Cornell University Press (2019)
+_ Muhammad Ali et al., Ad Delivery Algorithms: The Hidden Arbiters of Political Messaging, Cornell University Press (2019)
 
-_Muhammad Ali, Discrimination through optimization: How Facebook’s ad delivery can lead to skewed outcomes, Cornell University Press (2019)
+_ Muhammad Ali, Discrimination through optimization: How Facebook’s ad delivery can lead to skewed outcomes, Cornell University Press (2019)
 
-_Jen Gennai, Meghana Bhatt, Take back the Ad: Understanding the impact of female-sexualized ads on male and female viewers (2020)_
+_ Jen Gennai, Meghana Bhatt, Take back the Ad: Understanding the impact of female-sexualized ads on male and female viewers (2020)_
 
-_Jeff Horwitz, Facebook Algorithm Shows Gender Bias in Job Ads, Wall Street Journal (2020)_
+_ Jeff Horwitz, Facebook Algorithm Shows Gender Bias in Job Ads, Wall Street Journal (2020)_
 
-_Rebecca Heilweil, Facebook glitch blocks certain political ads, raising new questions about transparency (2020)_
+_ Rebecca Heilweil, Facebook glitch blocks certain political ads, raising new questions about transparency (2020)_
 
-_Lambrecht, Anja, Catherine Tucker, An Empirical Study into Apparent Gender-Based Discrimination in the Display of STEM Career Ads, Harvard Kennedy School (2018)_
+_ Lambrecht, Anja, Catherine Tucker, An Empirical Study into Apparent Gender-Based Discrimination in the Display of STEM Career Ads, Harvard Kennedy School (2018)_
 
-_Ava Kofman, Ariana Tobin, Facebook Ads Can Still Discriminate Against Women, Despite a Civil Rights Settlement, ProPublica (2019)_
+_ Ava Kofman, Ariana Tobin, Facebook Ads Can Still Discriminate Against Women, Despite a Civil Rights Settlement, ProPublica (2019)_
 
-_Vox News, Facebook showed this ad to 95% women. Is that a problem?, link, (2020) _
+_ Vox News, Facebook showed this ad to 95% women. Is that a problem?, link, (2020) _
 
-_Judith Duportail, Nicolas Kayser-Bril, Edouard Richard, Kira Schacht, The skin bias in Instagram, AlgorithmWatch (2020)__
+_ Judith Duportail, Nicolas Kayser-Bril, Edouard Richard, Kira Schacht, The skin bias in Instagram, AlgorithmWatch (2020)__
