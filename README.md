@@ -109,7 +109,7 @@ _Challenges_
 
 ***********************
 
-**BIBLIOGRAPHY**
+# **BIBLIOGRAPHY**
 _Brown, T. W. et al., Exposure to opposing views on social media can increase political polarization, National Academy of Sciences of the USA (2018)
 
 _Muhammad Ali et al., Ad Delivery Algorithms: The Hidden Arbiters of Political Messaging, Cornell University Press (2019)
