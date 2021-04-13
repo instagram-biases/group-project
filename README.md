@@ -6,7 +6,6 @@ In 2019, the BBC ran a story about a 12-year-old girl who, having barely joined 
 As we read this story, we realized just how big the amount of information that Instagram has on us is, and how it influences the advertisements sent to our feed. We therefore decided to study the biases in Instagram’s ad selection process. We increasingly realized that targeted advertising can be very harmful, and that we might have interests that we did not explicitly nor publicly express, but that are figured out in ways algorithms are aware of. 
 
 ![alt text](https://github.com/instagram-biases/group-project/blob/c45d841c7db005b224ac6fca569b7d441eb319a0/Test.png)
-![alt text](https://github.com/instagram-biases/group-project/blob/439fea770d6992d968e5cd80e834f76d0bc64604/Paris5.jpeg)
 
 # **HYPOTHESIS**
 We have conjectured that Instagram’s targeted ads are based on information that we are not explicitly aware is being used. 
